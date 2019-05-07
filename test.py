@@ -5,6 +5,8 @@ for listdir in os.listdir():
 	if os.path.isdir(listdir) and listdir[0] != '.':
 		sys.path.append(os.path.join(pwd, listdir))
 
-import sieve_of_eratosthenes_1_1
+import simple_enumarate_1_1
+import sieve_of_eratosthenes_1_2
 
-print(sieve_of_eratosthenes_1_1.__doc__)
+simple_enumarate_1_1.test()
+sieve_of_eratosthenes_1_2.test()

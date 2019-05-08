@@ -9,9 +9,9 @@ import math
 
 def test():
 
-    rnd = random.randint(2, 200)
-    print("\nmax number")
-    print(rnd)
+    rnd = 100#random.randint(2, 200)
+    print("\nmax number " +str(rnd))
+    rnd += 1
     data = [x for x in range(2, rnd)]
 
     #print("all numbers")

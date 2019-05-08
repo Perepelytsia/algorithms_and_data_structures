@@ -14,15 +14,22 @@ import math
 
 def test():
 
-    N = 202
-    data = range(0, N)
-    for i, digit in enumerate(data):
-        if i > 0 and i <= math.floor((math.sqrt(2 * N + 1) - 1) / 2):   
-            print('i='+str(i))
-            j=i
-            if j <= math.floor((N - i) / (2 * i + 1)):  
-                print('j='+str(j))
-                index = i + j + 2 * i * j
-                if index <= N:
-                    print(data[index])    
-                j += 1
+    N = 100
+    print("\nmax number "+str(N))
+    data = [x for x in range(1, N + 1)]
+    for i in range(1, N + 1):
+        if i <= math.floor((math.sqrt(2 * N + 1) - 1) / 2):
+            #print('i'+str(i))
+            for j in range(i, N + 1):
+                if j <= math.floor((N - i) / (2 * i + 1)):
+                    #print('j'+str(j))
+                    digit = i + j + 2 * i * j
+                    if digit <= N:
+                        #print(digit)
+                        if data.count(digit):
+                            data.remove(digit)
+    #print(data)
+    for index, d in enumerate(data):
+        data[index] = d * 2 + 1
+    print("prime numbers")
+    print(data)

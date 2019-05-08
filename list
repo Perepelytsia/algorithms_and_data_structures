@@ -1,4 +1,6 @@
 1.ARITHMETIC ALGORITHMS
 	finding prime numbers
                 1.1 simply enumerate
-		1.2 sieve of eratosthenes
+		1.2 sieve of Eratosthenes
+                1.3 sieve of Sundaram
+                1.4 sieve of Atkin

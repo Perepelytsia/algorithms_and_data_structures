@@ -13,4 +13,4 @@ import sieve_of_atkin_1_4
 simple_enumarate_1_1.test()
 sieve_of_eratosthenes_1_2.test()
 sieve_of_sundaram_1_3.test()
-#sieve_of_atkin_1_4.test()
+sieve_of_atkin_1_4.test()

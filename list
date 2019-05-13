@@ -1,7 +1,7 @@
 1.ARITHMETIC ALGORITHMS
 	finding prime numbers
         1.1 (+) iteration
-		1.2 (+) sieve of Eratosthenes
+	1.2 (+) sieve of Eratosthenes
         1.3 (+) sieve of Sundaram
         1.4 (+) sieve of Atkin   
     check prime numbers
@@ -9,15 +9,15 @@
         1.6 (+) theorem wilsona
         1.7 (+) theorem fermat
     gcd - greatest common divisor
-    	1.8 (-) rest and recursion
-    	1.9 (-) rest
-    	1.10 (-) Euclidean algorithm
-    	1.11 (-) Binary algorithm
-    	1.12 (-) Binary algorithm based on bit arithmetic
+    	1.8 (-) common prime numbers
+    	1.9 (+) basic Euclidean algorithm
+    	1.10 (+) extended Euclidean algorithm
+    	1.11 (+) Binary algorithm
+    	1.12 (+) Binary algorithm based on bit arithmetic
     	1.13 (-) lcm - least common multiple
     factoring a number
         1.14 (-) iteration
-        1.15 (-) method fermat
+        1.15 (+) method fermat
     factorial
     	1.16 (-) iteration
     	1.17 (-) recursion

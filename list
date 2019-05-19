@@ -1,16 +1,16 @@
 1.ARITHMETIC ALGORITHMS
-	finding prime numbers
-        1.1 (+) iteration
-	1.2 (+) sieve of Eratosthenes
-        1.3 (+) sieve of Sundaram
-        1.4 (+) sieve of Atkin   
+    finding prime numbers
+        1.1  (+) iteration
+	1.2  (+) sieve of Eratosthenes
+        1.3  (+) sieve of Sundaram
+        1.4  (+) sieve of Atkin   
     check prime numbers
-        1.5 (-) iteration
-        1.6 (+) theorem wilsona
-        1.7 (+) theorem fermat
+        1.5  (-) iteration
+        1.6  (+) theorem wilsona
+        1.7  (+) theorem fermat
     gcd - greatest common divisor
-    	1.8 (-) common prime numbers
-    	1.9 (+) basic Euclidean algorithm
+    	1.8  (-) common prime numbers
+    	1.9  (+) basic Euclidean algorithm
     	1.10 (+) extended Euclidean algorithm
     	1.11 (+) Binary algorithm
     	1.12 (+) Binary algorithm based on bit arithmetic
@@ -25,32 +25,33 @@
         1.18 (-) RSA
 
 2.SEARCH AND SORT ALGORITHMS
-	search
-		2.1 (-) find max/min
-		2.2 (-) binary
-	sort
-		2.3 (-) Bubble
-		2.4 (-) Selection
-		2.5 (-) Insertion
-		2.6 (-) Quick
-        2.7 (-) Counting
+    search
+	2.1  (-) find max/min
+	2.2  (-) binary
+    sort
+	2.3  (-) Bubble
+	2.4  (-) Selection
+	2.5  (-) Insertion
+	2.6  (-) Quick
+        2.7  (-) Counting
 
 3.STRING ALGORITHMS
-	3.1 (-) Prefix function
-	3.2 (-) Z function
-	3.3 (-) Levenshtein distance
-	3.4 (-) Knuth-Morris-Pratt 
+	3.1  (-) Prefix function
+	3.2  (-) Z function
+	3.3  (-) Levenshtein distance
+	3.4  (-) Knuth-Morris-Pratt 
 
 4.STRUCTURES
-	4.1 (-) Stack
-	4.2 (-) Queue
-	4.3 (-) Hash-based structure
-	4.4 (-) Graphs
-	trees
-		4.5 (-) Binary trees
-		4.6 (-) B-trees
-		4.7 (-) Heaps
+	4.1  (-) Stack
+	4.2  (-) Queue
+	4.3  (-) Hash-based structure
+	4.4  (-) Graphs
+    trees
+	4.5  (-) Binary trees
+	4.6  (-) B-trees
+	4.7  (-) Heaps
+
+5.GREEDY ALGORITHMS
 
 
-
-
+6.DYNAMIC ALGORITHMS

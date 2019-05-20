@@ -52,6 +52,24 @@
 	4.7  (-) Heaps
 
 5.GREEDY ALGORITHMS
-
+	Размен монет
+	Выбор заявок
 
 6.DYNAMIC ALGORITHMS
+	Одномерные
+	Двухмерные
+	Задача о наибольшей общей подпоследовательности
+	Задача поиска наибольшей увеличивающейся подпоследовательности
+	Задача о редакционном расстоянии (расстояние Левенштейна)
+	Задача о вычислении чисел Фибоначчи
+	Задача о рюкзаке
+
+7.COMBINATIONS ALGORITHMS
+
+8.COMPRESSION ALGORITHMS
+
+9.GEOMETRIC ALGORITHMS
+
+10.OPTIMISTIC ALGORITHMS
+
+11.QUANTUM ALGORITHMS

@@ -54,6 +54,10 @@
 5.GREEDY ALGORITHMS
 	Размен монет
 	Выбор заявок
+        Kruskal’s algorithm
+        Dijkstra’s shortest path algorithm
+        Prim’s algorithm
+        Huffman coding
 
 6.DYNAMIC ALGORITHMS
 	Одномерные
@@ -73,3 +77,23 @@
 10.OPTIMISTIC ALGORITHMS
 
 11.QUANTUM ALGORITHMS
+
+12.GRATH ALGORITHMS
+        12.1 (-) Breadth-first search(BFS)
+        12.2 (-) Depth-first search(DBF)  	
+    shortest path
+        12.3 (-) Dijkstra’s shortest path algorithm
+        12.4 (-) Bellman–Ford algorithm
+    cycle detection
+        12.5 (-) Floyd cycle detection algorithm
+        12.6 (-) Brent’s algorithm
+    minimum spanning tree
+        12.7 (-) Prim’s algorithm
+        12.8 (-) Kruskal’s algorithm
+    strongly connected components
+	12.9 (-) Kosaraju’s algorithm
+    topological sorting
+    graph colouring
+    maximum flow
+    matching
+

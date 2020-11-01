@@ -29,9 +29,9 @@
 	2.1  (-) find max/min
 	2.2  (-) binary
     sort
-	2.3  (-) Bubble
+	2.3  (+) Bubble
 	2.4  (+) Selection
-	2.5  (-) Insertion
+	2.5  (+) Insertion
 	2.6  (-) Quick
         2.7  (-) Counting
 
